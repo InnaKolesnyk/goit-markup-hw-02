@@ -74,6 +74,7 @@ color: var(--accent-color);
  letter-spacing: 0.06em;
  color: var(--primary-white-color);
  background-color: var(--accent-color);
+ cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus{
@@ -89,7 +90,6 @@ color: var(--accent-color);
  color: var(--title-text-color);
 }
 .features-desc{
- font-weight: 400;
  line-height: 1.71;
  color: var(--primary-text-color);
 }
@@ -112,7 +112,6 @@ color: var(--accent-color);
  color: var(--title-text-color);
 }
 .team-position{
- font-weight: 400;
  font-size: 16px;
  line-height: 1,18;
  text-align: center;
@@ -144,7 +143,6 @@ background-color: var(--accent-color);
  color: var(--title-text-color);
 }
 .gallery-desc{
- font-weight: 400;
  font-size: 16px;
  line-height: 1.87;    
  color: var(--primary-text-color);
